@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=U1 Old Footprint=FP-11-4C1-IPC_A New Footprint=FP-11-4C1-IPC_A
+Change Component Footprint: Designator=U3 Old Footprint=FP-11-4C1-IPC_A New Footprint=FP-11-4C1-IPC_A
+Change Component Footprint: Designator=U4 Old Footprint=FP-11-4C1-IPC_A New Footprint=FP-11-4C1-IPC_A
+Change Component Footprint: Designator=U5 Old Footprint=FP-11-4C1-IPC_A New Footprint=FP-11-4C1-IPC_A
+Change Component Footprint: Designator=U6 Old Footprint=FP-11-4C1-IPC_A New Footprint=FP-11-4C1-IPC_A
+Change Component Footprint: Designator=U7 Old Footprint=FP-11-4C1-IPC_A New Footprint=FP-11-4C1-IPC_A
+Change Component Footprint: Designator=U8 Old Footprint=FP-11-4C1-IPC_A New Footprint=FP-11-4C1-IPC_A
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator

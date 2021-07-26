@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=XC01 Pin=R64-2
+Removed Pin From Net: NetName=XC01 Pin=U12-8
+Added Pin To Net: NetName=NC Pin=U9-1
+Added Pin To Net: NetName=NC Pin=U9-4
+Added Pin To Net: NetName=NC Pin=U10-1
+Added Pin To Net: NetName=NC Pin=U10-4
+Added Pin To Net: NetName=NC Pin=U12-1
+Added Pin To Net: NetName=NC Pin=U12-4
+Added Pin To Net: NetName=XC02 Pin=R64-2
+Added Pin To Net: NetName=XC02 Pin=U12-8
+Added Net: Name=XC02
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

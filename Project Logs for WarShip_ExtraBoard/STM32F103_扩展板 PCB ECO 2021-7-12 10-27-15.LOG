@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Designator Member=P1
+Removed Member From Class: ClassName=Designator Member=P2
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP3
+Added Member To Class: ClassName=Designator Member=Component J2 PIN16
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

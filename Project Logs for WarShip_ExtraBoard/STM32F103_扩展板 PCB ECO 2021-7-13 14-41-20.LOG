@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=D1 Old Footprint=LED_0805 New Footprint=SOD-123
+Change Component Footprint: Designator=D2 Old Footprint=LED_0805 New Footprint=SOD-123
+Added Pin To Net: NetName=NetC10_1 Pin=D1-1
+Added Pin To Net: NetName=X00 Pin=D1-2
+Added Pin To Net: NetName=NetC12_1 Pin=D2-1
+Added Pin To Net: NetName=X01 Pin=D2-2
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator

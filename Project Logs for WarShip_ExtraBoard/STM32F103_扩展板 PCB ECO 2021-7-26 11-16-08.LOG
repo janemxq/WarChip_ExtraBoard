@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PB12 Pin=P2-44
+Added Net: Name=PB12
+Added Room: Name=STM32F103_开关量输入-TLP521
+Added Room: Name=STM32F103_开关量输出
+Added Room: Name=接口

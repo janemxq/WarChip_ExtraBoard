@@ -1,0 +1,38 @@
+Added Pin To Net: NetName=PF8 Pin=P2-31
+Added Pin To Net: NetName=PC1 Pin=P2-33
+Added Pin To Net: NetName=PC3 Pin=P2-34
+Added Pin To Net: NetName=PA0 Pin=P2-35
+Added Pin To Net: NetName=PC5 Pin=P2-38
+Added Pin To Net: NetName=PA5 Pin=P2-36
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA7 Pin=P2-37
+Added Net: Name=PA7
+Added Pin To Net: NetName=PB1 Pin=P2-39
+Added Net: Name=PB1
+Added Pin To Net: NetName=PE2 Pin=P2-24
+Added Net: Name=PE2
+Added Pin To Net: NetName=PE4 Pin=P2-25
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE6 Pin=P2-26
+Added Net: Name=PE6
+Added Pin To Net: NetName=PF0 Pin=P2-27
+Added Net: Name=PF0
+Added Pin To Net: NetName=PF2 Pin=P2-28
+Added Net: Name=PF2
+Added Pin To Net: NetName=PF4 Pin=P2-29
+Added Net: Name=PF4
+Added Pin To Net: NetName=PF6 Pin=P2-30
+Added Net: Name=PF6
+Added Pin To Net: NetName=PF10 Pin=P2-32
+Added Net: Name=PF10
+Added Pin To Net: NetName=PF11 Pin=P2-40
+Added Net: Name=PF11
+Added Pin To Net: NetName=PF13 Pin=P2-41
+Added Net: Name=PF13
+Added Pin To Net: NetName=PF15 Pin=P2-42
+Added Net: Name=PF15
+Added Pin To Net: NetName=PG1 Pin=P2-43
+Added Net: Name=PG1
+Added Room: Name=STM32F103_开关量输入-TLP521
+Added Room: Name=STM32F103_开关量输出
+Added Room: Name=接口

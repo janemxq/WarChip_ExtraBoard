@@ -1,0 +1,59 @@
+Protel Design System Design Rule Check
+PCB File : D:\Repos\PCB\Õ½½¢À©Õ¹°å\STM32F103_À©Õ¹°å.PcbDoc
+Date     : 2021/7/26
+Time     : 11:31:23
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Disabled)(InNamedPolygon('Bottom Layer-TOP')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mil) (Disabled)(InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NC Between Pad U10-4(2615mil,3315mil) on Multi-Layer And Pad U10-1(2615mil,3600mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NC Between Pad U9-1(1603.713mil,3621.287mil) on Multi-Layer And Pad U10-1(2615mil,3600mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NC Between Pad U10-4(2615mil,3315mil) on Multi-Layer And Pad U12-4(3660mil,3295mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NC Between Pad U12-4(3660mil,3295mil) on Multi-Layer And Pad U12-1(3660mil,3580mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NC Between Pad U9-4(1603.713mil,3336.287mil) on Multi-Layer And Pad U9-1(1603.713mil,3621.287mil) on Multi-Layer 
+Rule Violations :5
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=500mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:02

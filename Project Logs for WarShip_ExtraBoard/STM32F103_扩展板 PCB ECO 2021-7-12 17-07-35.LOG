@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=M Pin=C2-2
+Removed Pin From Net: NetName=M Pin=R8-1
+Removed Pin From Net: NetName=M Pin=TVS2-1
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=PC0 Pin=U2-4
+Change Component DesignItemId : Designator=U2 Old DesignItemId=TLP181 New DesignItemId=CMP-35887-000008-1
+Change Component Footprint: Designator=U2 Old Footprint=FP-11-4C1-IPC_A New Footprint=FP-11-4C1-MFG
+Change Component Comment : Designator=U2 Old Comment= New Comment=TLP181(GB)
+Change Component Description : Designator=U2 Old Description==Description New Description=OPTOCOUPLER TRANS 3.75KVRMS 6SO
+Change Component Library : Designator=U2 Old Library=TLP181.Schlib New Library=TLP81.SchLib
+Change Managed Component Library Link : Designator=U2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9237862C-E3D7-496F-95A9-4D40A7945610 Old RevisionGUID= New RevisionGUID=5C1DD40A-F977-470D-A3DF-6F19478F5924
+Change component parameters: Designator = "U2" ("U2"); Footprint = "FP-11-4C1-IPC_A"; UniqueID = "\XBBEQZLH" ("\XBBEQZLH")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Trans"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Emitter Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://toshiba.semicon-storage.com/info/docget.jsp?did=16749&prodName=TLP181"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L1"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L2"; Value = "Optocouplers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Emiiter Collector Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint Url"; Value = "https://toshiba.semicon-storage.com/eu/design-support/package/detail.4pin%20MFSOP6.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "10mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "1.15V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ipc Land Pattern Name"; Value = "SOP254P700X260-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Isolation Voltage"; Value = "3750Vrms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TLP181(GB)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Transfer Ratio"; Value = "600%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Junction Temp"; Value = "+125°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "48V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Current Transfer Ratio"; Value = "100%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart"; Value = "https://octopart.com/tlp181gb-toshiba-8180795"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "11-4C1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "200mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standoff Height"; Value = "0.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55°„C to +110°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+110°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-55°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn Off Delay Time"; Value = "3us"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn On Delay Time"; Value = "3us"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=PC0 Pin=U2-6
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R8-1
+Added Pin To Net: NetName=NetC2_2 Pin=TVS2-1
+Added Pin To Net: NetName=NetC2_2 Pin=U2-3
+Added Net: Name=NetC2_2
+Added Room: Name=Designator
+Added Room: Name=Designator

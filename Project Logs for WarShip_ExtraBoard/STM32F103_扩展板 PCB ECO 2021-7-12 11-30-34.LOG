@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND_RELY Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Added Member To Class: ClassName=Designator Member=Component J1 PIN16
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator

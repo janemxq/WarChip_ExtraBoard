@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND_RELY Pin=JP1-1
+Removed Pin From Net: NetName=+12_RELY Pin=JP1-2
+Removed Pin From Net: NetName=PF8 Pin=P2-31
+Removed Pin From Net: NetName=PC1 Pin=P2-33
+Removed Pin From Net: NetName=PC3 Pin=P2-34
+Removed Pin From Net: NetName=PA0 Pin=P2-35
+Removed Pin From Net: NetName=PC5 Pin=P2-38
+Added Pin To Net: NetName=+12_RELY Pin=JP1-1
+Added Pin To Net: NetName=GND_RELY Pin=JP1-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=STM32F103_开关量输出 Member=Component JP1 HF9500*2
+Added Room: Name=STM32F103_开关量输入-TLP521
+Added Room: Name=STM32F103_开关量输出
+Added Room: Name=接口

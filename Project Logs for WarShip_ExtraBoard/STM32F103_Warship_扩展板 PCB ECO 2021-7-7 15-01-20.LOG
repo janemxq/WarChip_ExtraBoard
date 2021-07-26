@@ -1,0 +1,301 @@
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=C?(0603)
+Added Component: Designator=D?(LED_0805)
+Added Component: Designator=D?(LED_0805)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=R?(0603)
+Added Component: Designator=TVS?(TVS)
+Added Component: Designator=TVS?(TVS)
+Added Component: Designator=TVS?(TVS)
+Added Component: Designator=TVS?(TVS)
+Added Component: Designator=TVS?(TVS)
+Added Component: Designator=TVS?(TVS)
+Added Component: Designator=TVS?(TVS)
+Added Component: Designator=TVS?(TVS)
+Added Component: Designator=TVS?(TVS)
+Added Component: Designator=TVS?(TVS)
+Added Component: Designator=U?(SOP4_PC817)
+Added Component: Designator=U?(DIP8_8601)
+Added Component: Designator=U?(SOP4_PC817)
+Added Component: Designator=U?(SOP4_PC817)
+Added Component: Designator=U?(SOP4_PC817)
+Added Component: Designator=U?(DIP8_8601)
+Added Component: Designator=U?(SOP4_PC817)
+Added Component: Designator=U?(SOP4_PC817)
+Added Component: Designator=U?(SOP4_PC817)
+Added Component: Designator=U?(SOP4_PC817)
+Added Pin To Net: NetName=+5V Pin=C?-1
+Added Pin To Net: NetName=+5V Pin=C?-1
+Added Pin To Net: NetName=X10 Pin=C?-1
+Added Pin To Net: NetName=X11 Pin=C?-1
+Added Pin To Net: NetName=X12 Pin=C?-1
+Added Pin To Net: NetName=X13 Pin=C?-1
+Added Pin To Net: NetName=X14 Pin=C?-1
+Added Pin To Net: NetName=X15 Pin=C?-1
+Added Pin To Net: NetName=X16 Pin=C?-1
+Added Pin To Net: NetName=X17 Pin=C?-1
+Added Pin To Net: NetName=XA00 Pin=C?-1
+Added Pin To Net: NetName=XA01 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=X00 Pin=C?-2
+Added Pin To Net: NetName=X01 Pin=C?-2
+Added Pin To Net: NetName=XA10 Pin=C?-2
+Added Pin To Net: NetName=XA11 Pin=C?-2
+Added Pin To Net: NetName=XA12 Pin=C?-2
+Added Pin To Net: NetName=XA13 Pin=C?-2
+Added Pin To Net: NetName=XA14 Pin=C?-2
+Added Pin To Net: NetName=XA15 Pin=C?-2
+Added Pin To Net: NetName=XA16 Pin=C?-2
+Added Pin To Net: NetName=XA17 Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=R?-1
+Added Pin To Net: NetName=+5V Pin=R?-1
+Added Pin To Net: NetName=S/S_2 Pin=R?-1
+Added Pin To Net: NetName=S/S_2 Pin=R?-1
+Added Pin To Net: NetName=S/S_2 Pin=R?-1
+Added Pin To Net: NetName=S/S_2 Pin=R?-1
+Added Pin To Net: NetName=S/S_2 Pin=R?-1
+Added Pin To Net: NetName=S/S_2 Pin=R?-1
+Added Pin To Net: NetName=S/S_2 Pin=R?-1
+Added Pin To Net: NetName=S/S_2 Pin=R?-1
+Added Pin To Net: NetName=X00 Pin=R?-1
+Added Pin To Net: NetName=X01 Pin=R?-1
+Added Pin To Net: NetName=XA00 Pin=R?-1
+Added Pin To Net: NetName=XA01 Pin=R?-1
+Added Pin To Net: NetName=XA10 Pin=R?-1
+Added Pin To Net: NetName=XA10 Pin=R?-1
+Added Pin To Net: NetName=XA10 Pin=R?-1
+Added Pin To Net: NetName=XA11 Pin=R?-1
+Added Pin To Net: NetName=XA11 Pin=R?-1
+Added Pin To Net: NetName=XA11 Pin=R?-1
+Added Pin To Net: NetName=XA12 Pin=R?-1
+Added Pin To Net: NetName=XA12 Pin=R?-1
+Added Pin To Net: NetName=XA12 Pin=R?-1
+Added Pin To Net: NetName=XA13 Pin=R?-1
+Added Pin To Net: NetName=XA13 Pin=R?-1
+Added Pin To Net: NetName=XA13 Pin=R?-1
+Added Pin To Net: NetName=XA14 Pin=R?-1
+Added Pin To Net: NetName=XA14 Pin=R?-1
+Added Pin To Net: NetName=XA14 Pin=R?-1
+Added Pin To Net: NetName=XA15 Pin=R?-1
+Added Pin To Net: NetName=XA15 Pin=R?-1
+Added Pin To Net: NetName=XA15 Pin=R?-1
+Added Pin To Net: NetName=XA16 Pin=R?-1
+Added Pin To Net: NetName=XA16 Pin=R?-1
+Added Pin To Net: NetName=XA16 Pin=R?-1
+Added Pin To Net: NetName=XA17 Pin=R?-1
+Added Pin To Net: NetName=XA17 Pin=R?-1
+Added Pin To Net: NetName=XA17 Pin=R?-1
+Added Pin To Net: NetName=+24V Pin=R?-2
+Added Pin To Net: NetName=+24V Pin=R?-2
+Added Pin To Net: NetName=+24V Pin=R?-2
+Added Pin To Net: NetName=+24V Pin=R?-2
+Added Pin To Net: NetName=+24V Pin=R?-2
+Added Pin To Net: NetName=+24V Pin=R?-2
+Added Pin To Net: NetName=+24V Pin=R?-2
+Added Pin To Net: NetName=+24V Pin=R?-2
+Added Pin To Net: NetName=COMX0 Pin=R?-2
+Added Pin To Net: NetName=COMX0 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=X10 Pin=R?-2
+Added Pin To Net: NetName=X11 Pin=R?-2
+Added Pin To Net: NetName=X12 Pin=R?-2
+Added Pin To Net: NetName=X13 Pin=R?-2
+Added Pin To Net: NetName=X14 Pin=R?-2
+Added Pin To Net: NetName=X15 Pin=R?-2
+Added Pin To Net: NetName=X16 Pin=R?-2
+Added Pin To Net: NetName=X17 Pin=R?-2
+Added Pin To Net: NetName=XA00 Pin=R?-2
+Added Pin To Net: NetName=XA01 Pin=R?-2
+Added Pin To Net: NetName=XA10 Pin=R?-2
+Added Pin To Net: NetName=XA11 Pin=R?-2
+Added Pin To Net: NetName=XA12 Pin=R?-2
+Added Pin To Net: NetName=XA13 Pin=R?-2
+Added Pin To Net: NetName=XA14 Pin=R?-2
+Added Pin To Net: NetName=XA15 Pin=R?-2
+Added Pin To Net: NetName=XA16 Pin=R?-2
+Added Pin To Net: NetName=XA17 Pin=R?-2
+Added Pin To Net: NetName=XC00 Pin=R?-2
+Added Pin To Net: NetName=XC01 Pin=R?-2
+Added Pin To Net: NetName=S/S_2 Pin=TVS?-1
+Added Pin To Net: NetName=S/S_2 Pin=TVS?-1
+Added Pin To Net: NetName=S/S_2 Pin=TVS?-1
+Added Pin To Net: NetName=S/S_2 Pin=TVS?-1
+Added Pin To Net: NetName=S/S_2 Pin=TVS?-1
+Added Pin To Net: NetName=S/S_2 Pin=TVS?-1
+Added Pin To Net: NetName=S/S_2 Pin=TVS?-1
+Added Pin To Net: NetName=S/S_2 Pin=TVS?-1
+Added Pin To Net: NetName=X00 Pin=TVS?-1
+Added Pin To Net: NetName=X01 Pin=TVS?-1
+Added Pin To Net: NetName=COMX0 Pin=TVS?-2
+Added Pin To Net: NetName=COMX0 Pin=TVS?-2
+Added Pin To Net: NetName=X10 Pin=TVS?-2
+Added Pin To Net: NetName=X11 Pin=TVS?-2
+Added Pin To Net: NetName=X12 Pin=TVS?-2
+Added Pin To Net: NetName=X13 Pin=TVS?-2
+Added Pin To Net: NetName=X14 Pin=TVS?-2
+Added Pin To Net: NetName=X15 Pin=TVS?-2
+Added Pin To Net: NetName=X16 Pin=TVS?-2
+Added Pin To Net: NetName=X17 Pin=TVS?-2
+Added Pin To Net: NetName=NC Pin=U?-1
+Added Pin To Net: NetName=NC Pin=U?-1
+Added Pin To Net: NetName=X10 Pin=U?-1
+Added Pin To Net: NetName=X11 Pin=U?-1
+Added Pin To Net: NetName=X12 Pin=U?-1
+Added Pin To Net: NetName=X13 Pin=U?-1
+Added Pin To Net: NetName=X14 Pin=U?-1
+Added Pin To Net: NetName=X15 Pin=U?-1
+Added Pin To Net: NetName=X16 Pin=U?-1
+Added Pin To Net: NetName=X17 Pin=U?-1
+Added Pin To Net: NetName=XA00 Pin=U?-2
+Added Pin To Net: NetName=XA01 Pin=U?-2
+Added Pin To Net: NetName=XA10 Pin=U?-2
+Added Pin To Net: NetName=XA11 Pin=U?-2
+Added Pin To Net: NetName=XA12 Pin=U?-2
+Added Pin To Net: NetName=XA13 Pin=U?-2
+Added Pin To Net: NetName=XA14 Pin=U?-2
+Added Pin To Net: NetName=XA15 Pin=U?-2
+Added Pin To Net: NetName=XA16 Pin=U?-2
+Added Pin To Net: NetName=XA17 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=X00 Pin=U?-3
+Added Pin To Net: NetName=X01 Pin=U?-3
+Added Pin To Net: NetName=NC Pin=U?-4
+Added Pin To Net: NetName=NC Pin=U?-4
+Added Pin To Net: NetName=PC13 Pin=U?-4
+Added Pin To Net: NetName=PE6 Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=PA0 Pin=U?-6
+Added Pin To Net: NetName=PA1 Pin=U?-6
+Added Pin To Net: NetName=XC00 Pin=U?-8
+Added Pin To Net: NetName=XC01 Pin=U?-8
+Added Net: Name=PA4
+Added Net: Name=PA8
+Added Net: Name=PA15
+Added Net: Name=PB0
+Added Net: Name=PB2
+Added Net: Name=PB3
+Added Net: Name=PB4
+Added Net: Name=PB5
+Added Net: Name=PB6
+Added Net: Name=PB7
+Added Net: Name=PB8
+Added Net: Name=PB12
+Added Net: Name=PC0
+Added Net: Name=PC1
+Added Net: Name=PC2
+Added Net: Name=PC3
+Added Net: Name=PC4
+Added Net: Name=PC5
+Added Net: Name=PC6
+Added Net: Name=PC7
+Added Net: Name=PD3
+Added Net: Name=PD4
+Added Net: Name=PD5
+Added Net: Name=PD6
+Added Net: Name=PD7
+Added Net: Name=PD11
+Added Net: Name=PD12
+Added Net: Name=PD13
+Added Pin To Net: NetName=PE0 Pin=U?-4
+Added Net: Name=PE0
+Added Pin To Net: NetName=PE1 Pin=U?-4
+Added Net: Name=PE1
+Added Pin To Net: NetName=PE2 Pin=U?-4
+Added Net: Name=PE2
+Added Pin To Net: NetName=PE3 Pin=U?-4
+Added Net: Name=PE3
+Added Pin To Net: NetName=PE4 Pin=U?-4
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE5 Pin=U?-4
+Added Net: Name=PE5
+Added Net: Name=PF0
+Added Net: Name=PF1
+Added Net: Name=PF2
+Added Net: Name=PF3
+Added Net: Name=PF4
+Added Net: Name=PF5
+Added Net: Name=PF8
+Added Net: Name=PF12
+Added Net: Name=PF13
+Added Net: Name=PF14
+Added Net: Name=PF15
+Added Net: Name=PG0
+Added Net: Name=PG1
+Added Net: Name=PG2
+Added Net: Name=PG3
+Added Net: Name=PG4
+Added Net: Name=PG5
+Added Net: Name=PG6
+Added Net: Name=PG7
+Added Net: Name=PG8
+Added Net: Name=PG9
+Added Net: Name=PG10
+Added Net: Name=PG11
+Added Net: Name=PG12
+Added Net: Name=PG13
+Added Net: Name=PG14
+Added Net: Name=PG15
+Added Class: Name=Designator
+Added Room: Name=Designator

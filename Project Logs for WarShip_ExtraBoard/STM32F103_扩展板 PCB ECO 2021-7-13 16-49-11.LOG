@@ -1,0 +1,23 @@
+Added Pin To Net: NetName=+3V3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=B Pin=C12-2
+Added Pin To Net: NetName=NetC12_1 Pin=D2-1
+Added Pin To Net: NetName=B Pin=D2-2
+Added Pin To Net: NetName=NetC12_1 Pin=R36-1
+Added Pin To Net: NetName=COMX0 Pin=R36-2
+Added Pin To Net: NetName=+3V3 Pin=R37-1
+Added Pin To Net: NetName=XC01 Pin=R37-2
+Added Pin To Net: NetName=B Pin=R38-1
+Added Pin To Net: NetName=NetC12_1 Pin=R38-2
+Added Pin To Net: NetName=B Pin=TVS10-1
+Added Pin To Net: NetName=COMX0 Pin=TVS10-2
+Added Pin To Net: NetName=NC Pin=U10-1
+Added Pin To Net: NetName=NetC12_1 Pin=U10-2
+Added Pin To Net: NetName=B Pin=U10-3
+Added Pin To Net: NetName=NC Pin=U10-4
+Added Pin To Net: NetName=GND Pin=U10-5
+Added Pin To Net: NetName=PA1 Pin=U10-6
+Added Pin To Net: NetName=XC01 Pin=U10-8
+Added Room: Name=Designator
+Added Room: Name=Designator

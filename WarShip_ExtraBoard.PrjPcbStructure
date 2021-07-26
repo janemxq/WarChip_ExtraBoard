@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=STM32F103_扩展板.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=STM32F103_扩展板.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=接口.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=接口.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=STM32F103_扩展板.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=STM32F103_开关量输出.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=STM32F103_开关量输出.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=STM32F103_扩展板.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=STM32F103_开关量输入-TLP521.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=STM32F103_开关量输入-TLP521.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,0 +1,55 @@
+Change Component Comment : Designator=R26 Old Comment=10K New Comment=510
+Change Component Comment : Designator=R29 Old Comment=10K New Comment=510
+Change Component Comment : Designator=R31 Old Comment=510 New Comment=10K
+Change Component Comment : Designator=R32 Old Comment=510 New Comment=10K
+Added Component: Designator=R30(0603)
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=M Pin=C5-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=M Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=M Pin=C8-2
+Added Pin To Net: NetName=X16 Pin=R17-1
+Added Pin To Net: NetName=NetC5_1 Pin=R17-2
+Added Pin To Net: NetName=NetC5_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=+3V3 Pin=R19-1
+Added Pin To Net: NetName=PC6 Pin=R19-2
+Added Pin To Net: NetName=M Pin=R23-1
+Added Pin To Net: NetName=NetC5_1 Pin=R23-2
+Added Pin To Net: NetName=X17 Pin=R25-1
+Added Pin To Net: NetName=NetC7_1 Pin=R25-2
+Added Pin To Net: NetName=NetC7_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=+3V3 Pin=R27-1
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=X13 Pin=R28-1
+Added Pin To Net: NetName=NetC8_1 Pin=R28-2
+Added Pin To Net: NetName=NetC8_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=+3V3 Pin=R30-1
+Added Pin To Net: NetName=PC3 Pin=R30-2
+Added Pin To Net: NetName=M Pin=R31-1
+Added Pin To Net: NetName=NetC7_1 Pin=R31-2
+Added Pin To Net: NetName=M Pin=R32-1
+Added Pin To Net: NetName=NetC8_1 Pin=R32-2
+Added Pin To Net: NetName=M Pin=TVS5-1
+Added Pin To Net: NetName=X16 Pin=TVS5-2
+Added Pin To Net: NetName=M Pin=TVS7-1
+Added Pin To Net: NetName=X17 Pin=TVS7-2
+Added Pin To Net: NetName=M Pin=TVS8-1
+Added Pin To Net: NetName=X13 Pin=TVS8-2
+Added Pin To Net: NetName=NetR18_2 Pin=U5-1
+Added Pin To Net: NetName=M Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=PC6 Pin=U5-6
+Added Pin To Net: NetName=NetR26_2 Pin=U7-1
+Added Pin To Net: NetName=M Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=NetR27_2 Pin=U7-6
+Added Pin To Net: NetName=NetR29_2 Pin=U8-1
+Added Pin To Net: NetName=M Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=PC3 Pin=U8-6
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator

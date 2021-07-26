@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=PB5 Pin=P1-3
+Removed Pin From Net: NetName=PG14 Pin=P1-5
+Removed Pin From Net: NetName=PG10 Pin=P1-7
+Removed Pin From Net: NetName=PD3 Pin=P1-10
+Removed Pin From Net: NetName=PA14 Pin=P1-13
+Removed Pin From Net: NetName=PC6 Pin=P1-16
+Removed Pin From Net: NetName=PG5 Pin=P1-18
+Removed Pin From Net: NetName=PD13 Pin=P1-20
+Removed Pin From Net: NetName=GND Pin=P1-23
+Removed Pin From Net: NetName=PC7 Pin=P1-30
+Removed Pin From Net: NetName=PD6 Pin=P1-37
+Removed Pin From Net: NetName=PG13 Pin=P1-40
+Removed Pin From Net: NetName=PG15 Pin=P1-41
+Removed Pin From Net: NetName=PB4 Pin=P1-42
+Added Pin To Net: NetName=PD13 Pin=P1-3
+Added Pin To Net: NetName=PG5 Pin=P1-5
+Added Pin To Net: NetName=PC6 Pin=P1-7
+Added Pin To Net: NetName=PA14 Pin=P1-10
+Added Pin To Net: NetName=PD3 Pin=P1-13
+Added Pin To Net: NetName=PG10 Pin=P1-16
+Added Pin To Net: NetName=PG14 Pin=P1-18
+Added Pin To Net: NetName=PB5 Pin=P1-20
+Change Net Name : Old Net Name=PA8 New Net Name=PD5
+Change Net Name : Old Net Name=PB3 New Net Name=PG3
+Change Net Name : Old Net Name=PB7 New Net Name=PD11
+Change Net Name : Old Net Name=PB9 New Net Name=PB14
+Change Net Name : Old Net Name=PB14 New Net Name=PB9
+Change Net Name : Old Net Name=PC8 New Net Name=PD7
+Change Net Name : Old Net Name=PC10 New Net Name=PC12
+Change Net Name : Old Net Name=PC12 New Net Name=PC10
+Change Net Name : Old Net Name=PD5 New Net Name=PA8
+Change Net Name : Old Net Name=PD7 New Net Name=PC8
+Change Net Name : Old Net Name=PD11 New Net Name=PB7
+Change Net Name : Old Net Name=PG3 New Net Name=PB3
+Change Net Name : Old Net Name=PG7 New Net Name=PG12
+Change Net Name : Old Net Name=PG12 New Net Name=PG7
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

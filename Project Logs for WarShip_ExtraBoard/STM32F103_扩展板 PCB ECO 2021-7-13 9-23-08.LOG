@@ -1,0 +1,4 @@
+Added Component: Designator=R13(0603)
+Added Pin To Net: NetName=NetC4_1 Pin=R13-1
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator

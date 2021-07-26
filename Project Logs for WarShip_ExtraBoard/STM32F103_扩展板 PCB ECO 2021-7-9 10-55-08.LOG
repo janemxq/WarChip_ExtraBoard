@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR2.54-F-44P New Footprint=H2.54-2X22
+Change Component Footprint: Designator=P2 Old Footprint=HDR2.54-F-44P New Footprint=H2.54-2X22
+Added Room: Name=Designator
+Added Room: Name=Designator
